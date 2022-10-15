@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+    margin: 0 auto;
+    background-image: url('https://img.freepik.com/free-vector/office-wallpaper-video-conferencing_23-2148657074.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.main{
+    width: 230px;
+    min-height: 320px;
+    /* background: red; */
+    float: left;
+    position: fixed;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    bottom: -15px;
+}
+
+.main img{
+    width: 330px;
+    min-height: 320px;
+    float: left;
+}

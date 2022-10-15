@@ -1,0 +1,29 @@
+
+
+.main{
+    width: 150px;
+    min-height: 94px;
+    background: red;
+    float: left;
+    cursor: pointer;
+    
+    background-image: url("../img/Pink-Panther-theme-song-300x188.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.main2{
+
+    min-width: 94px;
+    min-height: 94px;
+    background: blue;
+    float: left;
+    cursor: pointer;
+    
+    background-image: url("https://www.biography.com/.image/t_share/MTQ3NjM5MTEzMTc5MjEwODI2/eminem_photo_by_dave_j_hogan_getty_images_entertainment_getty_187596325.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    
+}
